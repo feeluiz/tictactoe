@@ -1,6 +1,6 @@
 Projeto React [Create React App](https://github.com/facebook/create-react-app).
 
-## Jogo Tic Tac Toe Criado com ReactJS
+## Jogo Tic Tac Toe Criado com ReactJS Usando React Hooks
   ### 1. Quadrado(Square) - Stateless
       [X] Criar um botão 
       [X] Receber valores pelas props
