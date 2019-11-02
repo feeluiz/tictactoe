@@ -18,3 +18,5 @@ Projeto React [Create React App](https://github.com/facebook/create-react-app).
 
 para executar o em desenvolvimento.<br />
 Abra [http://localhost:3000](http://localhost:3000) para ver no navegador
+
+#### Creditos [ReactJS Tutorial](https://en.reactjs.org/tutorial/tutorial.html)
